@@ -54,7 +54,7 @@ The website includes:
 ## Step 1: Download or Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/event-organizer.git
+git clone https://github.com/shreyamittalcs-maker/event-organizers-website.git
 ```
 
 ---
